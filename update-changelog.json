@@ -1,8 +1,7 @@
 {
-  "latestVersion": "1.0.2",
-  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Fapp-release.apk?alt=media&token=3250a7fe-826f-4fa7-8045-7f7b16b96333",
+  "latestVersion": "1.0.4",
+  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Fapp-release.apk?alt=media&token=fad434bd-20f9-42de-81b8-58233365dc68",
   "releaseNotes": [
-    "-Purchase flow",
-    "-Beta"
+    "- Home Screen Design Changes"
   ]
 }
