@@ -1,12 +1,8 @@
 {
-  "latestVersion": "1.0.5",
-  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Fapp-release.apk?alt=media&token=43c00ab9-7c7b-47c9-a129-e90515071ff5",
+  "latestVersion": "1.0.6",
+  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Fapp-release.apk?alt=media&token=cf77a86a-9801-4504-a1e4-34847ee2e8da",
   "releaseNotes": [
-    "- Purchase screen loaders",
-    "- Aadhaar recaptcha",
-    "- Resend OTP",
-    "- Transaction screen",
-    "- Retailer Farmer check removal",
-    "- New logo"
+    "- Bug fixes",
+    "- UI changes"
   ]
 }
