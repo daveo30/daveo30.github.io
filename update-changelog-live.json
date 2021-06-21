@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.7",
-  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Fapp-release.apk?alt=media&token=e306e5eb-6e9f-4fb9-9f11-6841dbd02f4a",
+  "latestVersion": "1.0.8",
+  "url": "https://firebasestorage.googleapis.com/v0/b/grow-53da7.appspot.com/o/GrowAPK%2Flive%2Fapp-release.apk?alt=media&token=70b34eea-42d8-406e-8c6a-802654f09ac1",
   "releaseNotes": [
-    "- Kannada Language Support",
-    "- Initial credits assigned"
+    "- Version number display",
+    "- Mode display"
   ]
 }
